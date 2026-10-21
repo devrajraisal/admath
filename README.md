@@ -1,5 +1,7 @@
 # AdMath: Ad Campaign Calculator
 
+**Live demo:** https://devrajraisal.github.io/admath/
+
 A small React app for comparing digital ad campaign scenarios. Enter spend, impressions, clicks, conversions, and revenue, and AdMath calculates the standard performance metrics side by side.
 
 I built it because I run Meta Ads campaigns as a freelance digital marketer, and I wanted one place to compare budget scenarios before spending.
