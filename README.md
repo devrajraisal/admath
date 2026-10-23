@@ -85,7 +85,7 @@ The repository includes a workflow that builds the app and publishes it. Turn it
 2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 3. Push to `main`, or run **Deploy to GitHub Pages** from the Actions tab.
 
-The site appears at `https://<your-username>.github.io/admath/`.
+The site appears at `https://devrajraisal.github.io/admath/`.
 
 ## Limits
 
